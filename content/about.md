@@ -6,6 +6,8 @@ draft: true
 
 I'm a blogger and I love Hugo.
 
+![hugo logo](/img/hugo-logo.png)
+
 ## More about me
 
 Some other stuff.
