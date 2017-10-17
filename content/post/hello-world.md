@@ -1,8 +1,6 @@
 ---
 title: "Hello World"
 date: 2017-10-16T20:42:30-07:00
-draft: true
-slug: "hello"
 ---
 
 **Hi there!** Welcome to my blog. There's going to be all sorts of _exciting_ stuff here later.
